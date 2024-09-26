@@ -1,1 +1,1 @@
-# Basic-Resume
+This repository contains a simple and responsive resume webpage built using HTML. It provides a clean and minimalistic layout to showcase your personal details, educational qualifications,skills, and contact information.
